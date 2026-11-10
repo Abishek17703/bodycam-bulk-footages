@@ -1,0 +1,693 @@
+{
+  "generated_at": "2026-10-31T00:35:00+05:30",
+  "summary": {
+    "description": "Side-door 2026 bodycam cases & direct unredacted archive packages not fully captured in the initial 29-case YouTube/portal queue.",
+    "total_new_or_expanded_packages": 16,
+    "total_unredacted_archive_org_hours": 26.96,
+    "total_unredacted_archive_org_gb": 51.93,
+    "total_official_pdf_documents": 35
+  },
+  "tier_A_direct_cloud_and_archive_packages_2h_plus": [
+    {
+      "case_id": "SIDEDOOR_2026_01",
+      "agency": "American Fork Police Department (UT) / Utah 4th District Court",
+      "incident_date": "2026-03-11",
+      "official_case_number": "26AF02066 (Complete 33-Camera Unredacted Archive + Search Warrant #3352981)",
+      "relationship_to_queue": "EXPANSION: In worker_2026_cloud.py (2026_CASE_09), only 8 YouTube clips (4.24h) were queued because YouTube channel BAM Archived only uploaded 8 of the 33 files before stopping. The side-door Internet Archive repository holds ALL 33 raw Axon Body 3 & Axon Fleet 3 MP4s (13.51 hours / 26.21 GB) plus the unredacted Search Warrant #3352981 PDF!",
+      "total_video_files": 33,
+      "total_duration_seconds": 48622.82,
+      "total_duration_hours": 13.51,
+      "total_size_gb": 26.21,
+      "archive_item_url": "https://archive.org/details/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm",
+      "pdf_documents": [
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/American-Fork-Police-Warrant-3352981-Search-Warrant.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Complaint.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Exhibit-A-LEGO-Email.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Exhibit-B-Franchise-Agreement.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Exhibit-D-Termination-Letter-1.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Exhibit-D-Termination-Letter.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Motion-To-Stay-Compel-Mediation-Arbitration.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-v-Benjamin-Paul-Schneider-Reckless-Ben-Bryan-Mansell-Utah-Case-260402353-Verified-Complaint.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-v-Benjamin-Paul-Schneider-Reckless-Ben-Utah-Case-260402353-Temporary-Restraining-Order-TRO.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-v-Reckless-Ben-Bryan-Mansell-Utah-Case-260402353-Errata.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-v-Reckless-Ben-Bryan-Mansell-Utah-Case-260402353-Filing-Receipt.pdf"
+      ],
+      "direct_mp4_files": [
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Adamson (2 BC)/26AF02066 - Adamson/Axon_Body_3_Video_2026-03-11_1508_X60A9488Y.mp4",
+          "size_bytes": 1023177119,
+          "size_mb": 1023.18,
+          "duration_seconds": 1970.95,
+          "duration_hours": 0.5475,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Adamson%20%282%20BC%29/26AF02066%20-%20Adamson/Axon_Body_3_Video_2026-03-11_1508_X60A9488Y.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Adamson (2 BC)/26AF02066 - Adamson/Axon_Body_3_Video_2026-03-11_1748_X60A9488Y.mp4",
+          "size_bytes": 389343134,
+          "size_mb": 389.34,
+          "duration_seconds": 747.6,
+          "duration_hours": 0.2077,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Adamson%20%282%20BC%29/26AF02066%20-%20Adamson/Axon_Body_3_Video_2026-03-11_1748_X60A9488Y.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Gonzalez (1 BC, 2 DC)/26AF02066 - Gonzalez BC/Axon_Body_3_Video_2026-03-11_1747_X60AH450S.mp4",
+          "size_bytes": 349050503,
+          "size_mb": 349.05,
+          "duration_seconds": 682.21,
+          "duration_hours": 0.1895,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Gonzalez%20%281%20BC%2C%202%20DC%29/26AF02066%20-%20Gonzalez%20BC/Axon_Body_3_Video_2026-03-11_1747_X60AH450S.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Gonzalez (1 BC, 2 DC)/26AF02066 - Gonzalez DC/Axon_Fleet_3_Front_Camera_Video_2026-03-11_1757.mp4",
+          "size_bytes": 5260317852,
+          "size_mb": 5260.32,
+          "duration_seconds": 8162.24,
+          "duration_hours": 2.2673,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Gonzalez%20%281%20BC%2C%202%20DC%29/26AF02066%20-%20Gonzalez%20DC/Axon_Fleet_3_Front_Camera_Video_2026-03-11_1757.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Gonzalez (1 BC, 2 DC)/26AF02066 - Gonzalez DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-11_1757.mp4",
+          "size_bytes": 4273056896,
+          "size_mb": 4273.06,
+          "duration_seconds": 8221.63,
+          "duration_hours": 2.2838,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Gonzalez%20%281%20BC%2C%202%20DC%29/26AF02066%20-%20Gonzalez%20DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-11_1757.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Jensen (1 BC)/26AF02066 - Jensen/Axon_Body_3_Video_2026-03-11_1747_X60AA1310.mp4",
+          "size_bytes": 691736560,
+          "size_mb": 691.74,
+          "duration_seconds": 1324.5,
+          "duration_hours": 0.3679,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Jensen%20%281%20BC%29/26AF02066%20-%20Jensen/Axon_Body_3_Video_2026-03-11_1747_X60AA1310.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Laycock (1 BC, 1 DC)/26AF02066 - Laycock BC/Axon_Body_3_Video_2026-03-11_1747_X6032265P.mp4",
+          "size_bytes": 562868619,
+          "size_mb": 562.87,
+          "duration_seconds": 1084.48,
+          "duration_hours": 0.3012,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Laycock%20%281%20BC%2C%201%20DC%29/26AF02066%20-%20Laycock%20BC/Axon_Body_3_Video_2026-03-11_1747_X6032265P.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Laycock (1 BC, 1 DC)/26AF02066 - Laycock DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-11_1754.mp4",
+          "size_bytes": 1119417443,
+          "size_mb": 1119.42,
+          "duration_seconds": 2164.27,
+          "duration_hours": 0.6012,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Laycock%20%281%20BC%2C%201%20DC%29/26AF02066%20-%20Laycock%20DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-11_1754.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Lott (1 BC)/26AF02066 - Lott/Axon_Body_3_Video_2026-03-11_1748_X60AA0390.mp4",
+          "size_bytes": 369135372,
+          "size_mb": 369.14,
+          "duration_seconds": 708.48,
+          "duration_hours": 0.1968,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Lott%20%281%20BC%29/26AF02066%20-%20Lott/Axon_Body_3_Video_2026-03-11_1748_X60AA0390.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Neil (1 BC)/26AF02066 - Neil/Axon_Body_3_Video_2026-03-11_1516_X60AA0420.mp4",
+          "size_bytes": 513977002,
+          "size_mb": 513.98,
+          "duration_seconds": 1020.27,
+          "duration_hours": 0.2834,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Neil%20%281%20BC%29/26AF02066%20-%20Neil/Axon_Body_3_Video_2026-03-11_1516_X60AA0420.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_1551_X60A9522X.mp4",
+          "size_bytes": 51549270,
+          "size_mb": 51.55,
+          "duration_seconds": 99.74,
+          "duration_hours": 0.0277,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_1551_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_1612_X60A9522X.mp4",
+          "size_bytes": 305201055,
+          "size_mb": 305.2,
+          "duration_seconds": 588.57,
+          "duration_hours": 0.1635,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_1612_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_1642_X60A9522X.mp4",
+          "size_bytes": 574234781,
+          "size_mb": 574.23,
+          "duration_seconds": 1105.88,
+          "duration_hours": 0.3072,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_1642_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_1740_X60A9522X.mp4",
+          "size_bytes": 103488069,
+          "size_mb": 103.49,
+          "duration_seconds": 199.46,
+          "duration_hours": 0.0554,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_1740_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_1828_X60A9522X.mp4",
+          "size_bytes": 9856268,
+          "size_mb": 9.86,
+          "duration_seconds": 19.03,
+          "duration_hours": 0.0053,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_1828_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_1834_X60A9522X.mp4",
+          "size_bytes": 825184284,
+          "size_mb": 825.18,
+          "duration_seconds": 1588.24,
+          "duration_hours": 0.4412,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_1834_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_1913_X60A9522X.mp4",
+          "size_bytes": 207038459,
+          "size_mb": 207.04,
+          "duration_seconds": 399.11,
+          "duration_hours": 0.1109,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_1913_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_1926_X60A9522X.mp4",
+          "size_bytes": 599288554,
+          "size_mb": 599.29,
+          "duration_seconds": 1156.4,
+          "duration_hours": 0.3212,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_1926_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_1955_X60A9522X.mp4",
+          "size_bytes": 76034233,
+          "size_mb": 76.03,
+          "duration_seconds": 147.17,
+          "duration_hours": 0.0409,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_1955_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_2001_X60A9522X.mp4",
+          "size_bytes": 88930254,
+          "size_mb": 88.93,
+          "duration_seconds": 171.99,
+          "duration_hours": 0.0478,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_2001_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Nicosia (11 BC)/26AF02066 - Nicosia/Axon_Body_3_Video_2026-03-11_2009_X60A9522X.mp4",
+          "size_bytes": 148102989,
+          "size_mb": 148.1,
+          "duration_seconds": 285.37,
+          "duration_hours": 0.0793,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Nicosia%20%2811%20BC%29/26AF02066%20-%20Nicosia/Axon_Body_3_Video_2026-03-11_2009_X60A9522X.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Richardson (7 BC, 2 DC)/26AF02066 - Richardson BC/Axon_Body_3_Video_2026-03-11_1508_X60A9891Y.mp4",
+          "size_bytes": 1011967095,
+          "size_mb": 1011.97,
+          "duration_seconds": 1951.16,
+          "duration_hours": 0.542,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Richardson%20%287%20BC%2C%202%20DC%29/26AF02066%20-%20Richardson%20BC/Axon_Body_3_Video_2026-03-11_1508_X60A9891Y.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Richardson (7 BC, 2 DC)/26AF02066 - Richardson BC/Axon_Body_3_Video_2026-03-11_1542_X60A9891Y.mp4",
+          "size_bytes": 134382718,
+          "size_mb": 134.38,
+          "duration_seconds": 258.81,
+          "duration_hours": 0.0719,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Richardson%20%287%20BC%2C%202%20DC%29/26AF02066%20-%20Richardson%20BC/Axon_Body_3_Video_2026-03-11_1542_X60A9891Y.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Richardson (7 BC, 2 DC)/26AF02066 - Richardson BC/Axon_Body_3_Video_2026-03-11_1552_X60A9891Y.mp4",
+          "size_bytes": 45036971,
+          "size_mb": 45.04,
+          "duration_seconds": 87.31,
+          "duration_hours": 0.0243,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Richardson%20%287%20BC%2C%202%20DC%29/26AF02066%20-%20Richardson%20BC/Axon_Body_3_Video_2026-03-11_1552_X60A9891Y.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Richardson (7 BC, 2 DC)/26AF02066 - Richardson BC/Axon_Body_3_Video_2026-03-11_1747_X60A9891Y.mp4",
+          "size_bytes": 663417490,
+          "size_mb": 663.42,
+          "duration_seconds": 1291.42,
+          "duration_hours": 0.3587,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Richardson%20%287%20BC%2C%202%20DC%29/26AF02066%20-%20Richardson%20BC/Axon_Body_3_Video_2026-03-11_1747_X60A9891Y.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Richardson (7 BC, 2 DC)/26AF02066 - Richardson BC/Axon_Body_3_Video_2026-03-11_1814_X60A9891Y.mp4",
+          "size_bytes": 43779350,
+          "size_mb": 43.78,
+          "duration_seconds": 84.85,
+          "duration_hours": 0.0236,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Richardson%20%287%20BC%2C%202%20DC%29/26AF02066%20-%20Richardson%20BC/Axon_Body_3_Video_2026-03-11_1814_X60A9891Y.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Richardson (7 BC, 2 DC)/26AF02066 - Richardson BC/Axon_Body_3_Video_2026-03-11_1818_X60A9891Y.mp4",
+          "size_bytes": 50273200,
+          "size_mb": 50.27,
+          "duration_seconds": 97.21,
+          "duration_hours": 0.027,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Richardson%20%287%20BC%2C%202%20DC%29/26AF02066%20-%20Richardson%20BC/Axon_Body_3_Video_2026-03-11_1818_X60A9891Y.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Richardson (7 BC, 2 DC)/26AF02066 - Richardson BC/Axon_Body_3_Video_2026-03-11_1847_X60A9891Y.mp4",
+          "size_bytes": 325072252,
+          "size_mb": 325.07,
+          "duration_seconds": 625.01,
+          "duration_hours": 0.1736,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Richardson%20%287%20BC%2C%202%20DC%29/26AF02066%20-%20Richardson%20BC/Axon_Body_3_Video_2026-03-11_1847_X60A9891Y.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Richardson (7 BC, 2 DC)/26AF02066 - Richardson DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-11_1527.mp4",
+          "size_bytes": 1006695218,
+          "size_mb": 1006.7,
+          "duration_seconds": 1951.15,
+          "duration_hours": 0.542,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Richardson%20%287%20BC%2C%202%20DC%29/26AF02066%20-%20Richardson%20DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-11_1527.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Richardson (7 BC, 2 DC)/26AF02066 - Richardson DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-11_1756.mp4",
+          "size_bytes": 4094379246,
+          "size_mb": 4094.38,
+          "duration_seconds": 7926.04,
+          "duration_hours": 2.2017,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Richardson%20%287%20BC%2C%202%20DC%29/26AF02066%20-%20Richardson%20DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-11_1756.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Tonga (2 BC, 1 DC)/26AF02066 - Tonga/Axon_Body_3_Video_2026-03-11_1700_X60AF8422.mp4",
+          "size_bytes": 66084484,
+          "size_mb": 66.08,
+          "duration_seconds": 127.45,
+          "duration_hours": 0.0354,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Tonga%20%282%20BC%2C%201%20DC%29/26AF02066%20-%20Tonga/Axon_Body_3_Video_2026-03-11_1700_X60AF8422.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Tonga (2 BC, 1 DC)/26AF02066 - Tonga/Axon_Body_3_Video_2026-03-11_1747_X60AF8422.mp4",
+          "size_bytes": 373276237,
+          "size_mb": 373.28,
+          "duration_seconds": 715.17,
+          "duration_hours": 0.1987,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Tonga%20%282%20BC%2C%201%20DC%29/26AF02066%20-%20Tonga/Axon_Body_3_Video_2026-03-11_1747_X60AF8422.mp4"
+        },
+        {
+          "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02066 - Bodycam_Dashcam/Tonga (2 BC, 1 DC)/26AF02066 - Tonga/Axon_Fleet_3_Interior_Camera_Video_2026-03-11_2013.mp4",
+          "size_bytes": 854653389,
+          "size_mb": 854.65,
+          "duration_seconds": 1659.65,
+          "duration_hours": 0.461,
+          "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02066%20-%20Bodycam_Dashcam/Tonga%20%282%20BC%2C%201%20DC%29/26AF02066%20-%20Tonga/Axon_Fleet_3_Interior_Camera_Video_2026-03-11_2013.mp4"
+        }
+      ],
+      "additional_youtube_mirrors_not_in_queue": [
+        {
+          "video_id": "NRrXfkznC3U",
+          "url": "https://www.youtube.com/watch?v=NRrXfkznC3U",
+          "duration_seconds": 7927,
+          "title": "Inside the Cop Car: The Team in Transport | Unredacted | Airbnb Raid | Case 26AF02066 (Officer Richardson Interior Dashcam 2.20h)"
+        },
+        {
+          "video_id": "1EgLvaosyEo",
+          "url": "https://www.youtube.com/watch?v=1EgLvaosyEo",
+          "duration_seconds": 2166,
+          "title": "American Fork PD - Officer Laycock Dashcam (Interior) - Case 26AF02066 - March 11, 2026 (0.60h)"
+        },
+        {
+          "video_id": "Un4zfNws5kY",
+          "url": "https://www.youtube.com/watch?v=Un4zfNws5kY",
+          "duration_seconds": 1971,
+          "title": "American Fork PD - Officer Adamson Bodycam - Case 26AF02066 - March 11, 2026 (0.55h)"
+        },
+        {
+          "video_id": "hwbkP-CrnoU",
+          "url": "https://www.youtube.com/watch?v=hwbkP-CrnoU",
+          "duration_seconds": 1951,
+          "title": "American Fork PD - Officer Richardson Dashcam (Interior) - Case 26AF02066 - March 11, 2026 (0.54h)"
+        },
+        {
+          "video_id": "JJfFyAUTBUQ",
+          "url": "https://www.youtube.com/watch?v=JJfFyAUTBUQ",
+          "duration_seconds": 3876,
+          "title": "Unredacted Reckless Ben Interrogation Bodycam Footage from American Fork Police Department (1.08h)"
+        }
+      ]
+    },
+    {
+      "case_id": "SIDEDOOR_2026_02",
+      "agency": "American Fork Police Department (UT)",
+      "incident_date": "2026-03-08 to 2026-03-10",
+      "official_case_number": "26AF01974 / 26AF02007 / 26AF02033 (Direct Archive.org Unredacted Master Files + Official Police Reports & Probable Cause PDFs)",
+      "relationship_to_queue": "DIRECT S3/HTTP UPGRADE + OFFICIAL PDFs: While the videos for 26AF01974 (2.68h), 26AF02007 (6.63h), and 26AF02033 (4.14h) were queued via YouTube in 2026_CASE_06..08, the Archive.org items provide direct HTTP downloads (no yt-dlp throttling) plus 25 official Police Incident Reports, Booking Sheets, Probable Cause Statements, and Court Complaints in PDF format that were NOT in the YouTube queue!",
+      "total_video_files": 23,
+      "total_duration_seconds": 48425.6,
+      "total_duration_hours": 13.45,
+      "total_size_gb": 25.72,
+      "archive_item_urls": [
+        "https://archive.org/details/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm",
+        "https://archive.org/details/reckless-ben-BAM-bodycam-docs"
+      ],
+      "pdf_documents": [
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/American-Fork-Police-26AF01974-Trespass-Incident-Report.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/American-Fork-Police-26AF02007-Harassment-Incident-Report.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/American-Fork-Police-26AF02033-Booking-Sheet.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/American-Fork-Police-26AF02033-Probable-Cause-Statement.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/American-Fork-Police-26AF02033-Stalking-Harassment-Incident-Report.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/American-Fork-Police-Warrant-3352981-Search-Warrant.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks%20%26%20Minifigs%202023%20FDD.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Complaint.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Exhibit-A-LEGO-Email.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Exhibit-B-Franchise-Agreement.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Exhibit-D-Termination-Letter-1.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Exhibit-D-Termination-Letter.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-Case-260200029-Motion-To-Stay-Compel-Mediation-Arbitration.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-v-Benjamin-Paul-Schneider-Reckless-Ben-Bryan-Mansell-Utah-Case-260402353-Verified-Complaint.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-v-Benjamin-Paul-Schneider-Reckless-Ben-Utah-Case-260402353-Temporary-Restraining-Order-TRO.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-v-Reckless-Ben-Bryan-Mansell-Utah-Case-260402353-Errata.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Bricks-and-Minifigs-v-Reckless-Ben-Bryan-Mansell-Utah-Case-260402353-Filing-Receipt.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC26531-benjamin-schneider-v-l2-bricks-llc-claim-amended-ccam-166809996.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC26531-benjamin-schneider-v-l2-bricks-llc-judgment-housecleaning-dismissal-mar-169869745.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC26531-benjamin-schneider-v-l2-bricks-llc-notice-entry-of-judgment-169875697.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC26531-benjamin-schneider-v-l2-bricks-llc-notice-entry-of-judgment-169875698.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC26531-benjamin-schneider-v-l2-bricks-llc-small-claim-complaint-165556863.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-judgment-housecleaning-dismissal-mar-174337147.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-letter-168333371.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-motion-default-order-modf-169758129.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-motion-default-order-modf-171485058.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-notice-entry-of-judgment-174337844.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-notice-entry-of-judgment-174337845.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-order-denial-170474785.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-order-denial-170485650.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-proof-service-prsv-169492090.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-proof-service-prsv-171384311.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-25SC30722-benjamin-schneider-v-l2-bricks-llc-small-claim-complaint-167756667.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-26SC06134-benjamin-schneider-v-joshua-johnson-claim-cc-172657761.pdf",
+        "https://archive.org/download/reckless-ben-BAM-bodycam-docs/Oregon-Small-Claims-26SC06134-benjamin-schneider-v-joshua-johnson-consent-cn-176214847.pdf"
+      ],
+      "direct_mp4_files_by_case": {
+        "26AF01974": [
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF01974 - Bodycam_Dashcam/Richardson (1 BD, 2 DC)/26AF01974 - Richardson BC/Axon_Body_3_Video_2026-03-08_1314_X60A9891Y.mp4",
+            "size_bytes": 773465257,
+            "size_mb": 773.47,
+            "duration_seconds": 1507.9,
+            "duration_hours": 0.4189,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF01974%20-%20Bodycam_Dashcam/Richardson%20%281%20BD%2C%202%20DC%29/26AF01974%20-%20Richardson%20BC/Axon_Body_3_Video_2026-03-08_1314_X60A9891Y.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF01974 - Bodycam_Dashcam/Richardson (1 BD, 2 DC)/26AF01974 - Richardson DC/Axon_Fleet_3_Front_Camera_Video_2026-03-08_1313.mp4",
+            "size_bytes": 1109089028,
+            "size_mb": 1109.09,
+            "duration_seconds": 1730.52,
+            "duration_hours": 0.4807,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF01974%20-%20Bodycam_Dashcam/Richardson%20%281%20BD%2C%202%20DC%29/26AF01974%20-%20Richardson%20DC/Axon_Fleet_3_Front_Camera_Video_2026-03-08_1313.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF01974 - Bodycam_Dashcam/Richardson (1 BD, 2 DC)/26AF01974 - Richardson DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-08_1313.mp4",
+            "size_bytes": 923003959,
+            "size_mb": 923.0,
+            "duration_seconds": 1790.51,
+            "duration_hours": 0.4974,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF01974%20-%20Bodycam_Dashcam/Richardson%20%281%20BD%2C%202%20DC%29/26AF01974%20-%20Richardson%20DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-08_1313.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF01974 - Bodycam_Dashcam/Strong (1 BD)/26AF01974 - Strong/Axon_Body_3_Video_2026-03-08_1316_X60A9919X.mp4",
+            "size_bytes": 425195644,
+            "size_mb": 425.2,
+            "duration_seconds": 819.82,
+            "duration_hours": 0.2277,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF01974%20-%20Bodycam_Dashcam/Strong%20%281%20BD%29/26AF01974%20-%20Strong/Axon_Body_3_Video_2026-03-08_1316_X60A9919X.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF01974 - Bodycam_Dashcam/Tonga (4 BD)/26AF01974 - Tonga/Axon_Body_3_Video_2026-03-08_1255_X60AF8422.mp4",
+            "size_bytes": 430688897,
+            "size_mb": 430.69,
+            "duration_seconds": 829.42,
+            "duration_hours": 0.2304,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF01974%20-%20Bodycam_Dashcam/Tonga%20%284%20BD%29/26AF01974%20-%20Tonga/Axon_Body_3_Video_2026-03-08_1255_X60AF8422.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF01974 - Bodycam_Dashcam/Tonga (4 BD)/26AF01974 - Tonga/Axon_Body_3_Video_2026-03-08_1312_X60AF8422.mp4",
+            "size_bytes": 1046289193,
+            "size_mb": 1046.29,
+            "duration_seconds": 2029.44,
+            "duration_hours": 0.5637,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF01974%20-%20Bodycam_Dashcam/Tonga%20%284%20BD%29/26AF01974%20-%20Tonga/Axon_Body_3_Video_2026-03-08_1312_X60AF8422.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF01974 - Bodycam_Dashcam/Tonga (4 BD)/26AF01974 - Tonga/Axon_Body_3_Video_2026-03-08_1351_X60AF8422.mp4",
+            "size_bytes": 101037944,
+            "size_mb": 101.04,
+            "duration_seconds": 195.29,
+            "duration_hours": 0.0542,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF01974%20-%20Bodycam_Dashcam/Tonga%20%284%20BD%29/26AF01974%20-%20Tonga/Axon_Body_3_Video_2026-03-08_1351_X60AF8422.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF01974 - Bodycam_Dashcam/Tonga (4 BD)/26AF01974 - Tonga/Axon_Body_3_Video_2026-03-08_1441_X60AF8422.mp4",
+            "size_bytes": 385614591,
+            "size_mb": 385.61,
+            "duration_seconds": 741.22,
+            "duration_hours": 0.2059,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF01974%20-%20Bodycam_Dashcam/Tonga%20%284%20BD%29/26AF01974%20-%20Tonga/Axon_Body_3_Video_2026-03-08_1441_X60AF8422.mp4"
+          }
+        ],
+        "26AF02007": [
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02007 - Bodycam_Dashcam/Bibeau (1 BC)/26AF02007 - Bibeau/Axon_Body_3_Video_2026-03-09_1942_X60A9475Y.mp4",
+            "size_bytes": 1029830473,
+            "size_mb": 1029.83,
+            "duration_seconds": 2000.27,
+            "duration_hours": 0.5556,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02007%20-%20Bodycam_Dashcam/Bibeau%20%281%20BC%29/26AF02007%20-%20Bibeau/Axon_Body_3_Video_2026-03-09_1942_X60A9475Y.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02007 - Bodycam_Dashcam/Fraughton (3 BC)/26AF02007 - Fraughton/Axon_Body_3_Video_2026-03-09_1840_X60AA0290.mp4",
+            "size_bytes": 717078897,
+            "size_mb": 717.08,
+            "duration_seconds": 1382.92,
+            "duration_hours": 0.3841,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02007%20-%20Bodycam_Dashcam/Fraughton%20%283%20BC%29/26AF02007%20-%20Fraughton/Axon_Body_3_Video_2026-03-09_1840_X60AA0290.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02007 - Bodycam_Dashcam/Fraughton (3 BC)/26AF02007 - Fraughton/Axon_Body_3_Video_2026-03-09_1905_X60AA0290.mp4",
+            "size_bytes": 35534384,
+            "size_mb": 35.53,
+            "duration_seconds": 69.29,
+            "duration_hours": 0.0192,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02007%20-%20Bodycam_Dashcam/Fraughton%20%283%20BC%29/26AF02007%20-%20Fraughton/Axon_Body_3_Video_2026-03-09_1905_X60AA0290.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02007 - Bodycam_Dashcam/Fraughton (3 BC)/26AF02007 - Fraughton/Axon_Body_3_Video_2026-03-09_1920_X60AA0290.mp4",
+            "size_bytes": 2313939660,
+            "size_mb": 2313.94,
+            "duration_seconds": 4499.56,
+            "duration_hours": 1.2499,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02007%20-%20Bodycam_Dashcam/Fraughton%20%283%20BC%29/26AF02007%20-%20Fraughton/Axon_Body_3_Video_2026-03-09_1920_X60AA0290.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02007 - Bodycam_Dashcam/Hawkins (2 BC, 2 DC)/26AF02077 - Hawkins BC/Axon_Body_3_Video_2026-03-09_1835_X60A9378Z.mp4",
+            "size_bytes": 929470713,
+            "size_mb": 929.47,
+            "duration_seconds": 1788.5,
+            "duration_hours": 0.4968,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02007%20-%20Bodycam_Dashcam/Hawkins%20%282%20BC%2C%202%20DC%29/26AF02077%20-%20Hawkins%20BC/Axon_Body_3_Video_2026-03-09_1835_X60A9378Z.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02007 - Bodycam_Dashcam/Hawkins (2 BC, 2 DC)/26AF02077 - Hawkins BC/Axon_Body_3_Video_2026-03-09_1918_X60A9378Z.mp4",
+            "size_bytes": 2347954617,
+            "size_mb": 2347.95,
+            "duration_seconds": 4617.47,
+            "duration_hours": 1.2826,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02007%20-%20Bodycam_Dashcam/Hawkins%20%282%20BC%2C%202%20DC%29/26AF02077%20-%20Hawkins%20BC/Axon_Body_3_Video_2026-03-09_1918_X60A9378Z.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02007 - Bodycam_Dashcam/Hawkins (2 BC, 2 DC)/26AF02077 - Hawkins DC/Axon_Fleet_3_Front_Camera_Video_2026-03-09_1917.mp4",
+            "size_bytes": 3026064604,
+            "size_mb": 3026.06,
+            "duration_seconds": 4726.14,
+            "duration_hours": 1.3128,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02007%20-%20Bodycam_Dashcam/Hawkins%20%282%20BC%2C%202%20DC%29/26AF02077%20-%20Hawkins%20DC/Axon_Fleet_3_Front_Camera_Video_2026-03-09_1917.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02007 - Bodycam_Dashcam/Hawkins (2 BC, 2 DC)/26AF02077 - Hawkins DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-09_1917.mp4",
+            "size_bytes": 2467236051,
+            "size_mb": 2467.24,
+            "duration_seconds": 4786.01,
+            "duration_hours": 1.3294,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02007%20-%20Bodycam_Dashcam/Hawkins%20%282%20BC%2C%202%20DC%29/26AF02077%20-%20Hawkins%20DC/Axon_Fleet_3_Interior_Camera_Video_2026-03-09_1917.mp4"
+          }
+        ],
+        "26AF02033": [
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02033 - Bodycam_Dashcam/Canizalez (1 BC)/26AF02033 - Canizalez/Axon_Body_3_Video_2026-03-10_1533_X60AJ090V.mp4",
+            "size_bytes": 532912530,
+            "size_mb": 532.91,
+            "duration_seconds": 1053.62,
+            "duration_hours": 0.2927,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02033%20-%20Bodycam_Dashcam/Canizalez%20%281%20BC%29/26AF02033%20-%20Canizalez/Axon_Body_3_Video_2026-03-10_1533_X60AJ090V.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02033 - Bodycam_Dashcam/Pitt (1 BC)/26AF02033 - Pitt/Axon_Body_3_Video_2026-03-10_1542_X60A9445Z.mp4",
+            "size_bytes": 1833955006,
+            "size_mb": 1833.96,
+            "duration_seconds": 3581.33,
+            "duration_hours": 0.9948,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02033%20-%20Bodycam_Dashcam/Pitt%20%281%20BC%29/26AF02033%20-%20Pitt/Axon_Body_3_Video_2026-03-10_1542_X60A9445Z.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02033 - Bodycam_Dashcam/Somerville (2 BC)/26AF02033 - Somerville/Axon_Body_3_Video_2026-03-10_1540_X60A9525X.mp4",
+            "size_bytes": 761088042,
+            "size_mb": 761.09,
+            "duration_seconds": 1461.17,
+            "duration_hours": 0.4059,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02033%20-%20Bodycam_Dashcam/Somerville%20%282%20BC%29/26AF02033%20-%20Somerville/Axon_Body_3_Video_2026-03-10_1540_X60A9525X.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02033 - Bodycam_Dashcam/Somerville (2 BC)/26AF02033 - Somerville/Axon_Body_3_Video_2026-03-10_1718_X60A9525X.mp4",
+            "size_bytes": 240970240,
+            "size_mb": 240.97,
+            "duration_seconds": 463.36,
+            "duration_hours": 0.1287,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02033%20-%20Bodycam_Dashcam/Somerville%20%282%20BC%29/26AF02033%20-%20Somerville/Axon_Body_3_Video_2026-03-10_1718_X60A9525X.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02033 - Bodycam_Dashcam/Sumbot (2 BC)/26AF02033 - Sumbot/Axon_Body_3_Video_2026-03-10_1528_X60A9352Z.mp4",
+            "size_bytes": 3425722580,
+            "size_mb": 3425.72,
+            "duration_seconds": 6681.18,
+            "duration_hours": 1.8559,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02033%20-%20Bodycam_Dashcam/Sumbot%20%282%20BC%29/26AF02033%20-%20Sumbot/Axon_Body_3_Video_2026-03-10_1528_X60A9352Z.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02033 - Bodycam_Dashcam/Sumbot (2 BC)/26AF02033 - Sumbot/Axon_Body_3_Video_2026-05-26_1319_X60A9352Z.mp4",
+            "size_bytes": 169843112,
+            "size_mb": 169.84,
+            "duration_seconds": 326.94,
+            "duration_hours": 0.0908,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02033%20-%20Bodycam_Dashcam/Sumbot%20%282%20BC%29/26AF02033%20-%20Sumbot/Axon_Body_3_Video_2026-05-26_1319_X60A9352Z.mp4"
+          },
+          {
+            "name": "American Fork PD - Unredacted Body & Dashcam 6-3-26 220PM/26AF02033 - Bodycam_Dashcam/Valadez, M (1 DC)/26AF02033 - Valadez, M/Axon_Fleet_3_Interior_Camera_Video_2026-03-10_1950.mp4",
+            "size_bytes": 689710033,
+            "size_mb": 689.71,
+            "duration_seconds": 1343.72,
+            "duration_hours": 0.3733,
+            "url": "https://archive.org/download/american-fork-pd-unredacted-body-dashcam-6-3-26-220-pm/American%20Fork%20PD%20-%20Unredacted%20Body%20%26%20Dashcam%206-3-26%20220PM/26AF02033%20-%20Bodycam_Dashcam/Valadez%2C%20M%20%281%20DC%29/26AF02033%20-%20Valadez%2C%20M/Axon_Fleet_3_Interior_Camera_Video_2026-03-10_1950.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "SIDEDOOR_2026_03",
+      "agency": "Tipp City Police Department / Miami County Sheriff (OH)",
+      "incident_date": "2026-02-16",
+      "official_case_number": "State of Ohio v. Caleb Carl Flynn (Additional 1.98h Police Interviews Upload — PLUNDER True Crime `yGKbvS9lyoE`)",
+      "relationship_to_queue": "NEW / SUPPLEMENTAL 1.98h VIDEO: Supplements `2026_CASE_03` (`bylCTu5kwek` + `oj5-YYH0gOo`, 2.66h) with `yGKbvS9lyoE` ('Two 2/16/26 police interviews + 1 fool - The Picture of Caleb Carl Flynn', 1.98 hours / 7,144s), bringing the Caleb Flynn 2/16/2026 case total to 4.64 hours.",
+      "total_video_files": 1,
+      "total_duration_seconds": 7144,
+      "total_duration_hours": 1.98,
+      "youtube_url": "https://www.youtube.com/watch?v=yGKbvS9lyoE"
+    }
+  ],
+  "tier_B_untouched_2026_agency_portal_disclosures_all_durations": [
+    {
+      "case_id": "SIDEDOOR_2026_04",
+      "agency": "Sacramento County Sheriff's Office (CA)",
+      "incident_date": "2026-07-15",
+      "official_case_number": "26-215320 (Andrea Blvd Officer-Involved Shooting — AB 748 Disclosure)",
+      "relationship_to_queue": "BRAND NEW 2026 AGENCY PORTAL CASE: Not in 2026_CASE_01..29. Direct Dropbox ZIP archive containing In-Car Camera (`Video/ICC Deputy 1.mp4`, 55.52 MB), `Audio/911 Audio.m4a` (4.19 MB), and `Audio/Radio Traffic.m4a` (5.67 MB), plus official community briefing.",
+      "portal_url": "https://www.sacsheriff.com/pages/released_cases.php",
+      "dropbox_direct_zip_url": "https://www.dropbox.com/scl/fo/9tzrccmtc1o43rv6v1nee/APWPfIXD9AnwWxLpkJySUic?rlkey=cu3mfhvdaac8p4p4sezk19j96&st=5do5v71i&dl=1",
+      "youtube_briefing_url": "https://www.youtube.com/watch?v=c1uP0tI1T-4",
+      "zip_size_mb": 65.38,
+      "files_inside_zip": [
+        "Video/ICC Deputy 1.mp4 (55.52 MB)",
+        "Audio/911 Audio.m4a (4.19 MB)",
+        "Audio/Radio Traffic.m4a (5.67 MB)"
+      ]
+    },
+    {
+      "case_id": "SIDEDOOR_2026_05",
+      "agency": "San Diego Police Department (CA)",
+      "incident_date": "2026-01-21 to 2026-09-16",
+      "official_case_number": "9 Additional 2026 SDPD AB 748 Critical Incident Video Disclosures (Direct S3/Gov MP4s)",
+      "relationship_to_queue": "BRAND NEW 2026 AGENCY PORTAL CASES: Only 2 SDPD 2026 cases (`1-22-2026 8800 Jamacha Rd` SB 16 OIS and `04-15-2026 1600 Island Avenue` SB 16 OIS) were queued in 2026_CASE_01 and 2026_CASE_11. SDPD's AB 748 portal hosts 9 additional 2026 critical incident MP4 disclosures on `sdpdsb1421.sandiego.gov`.",
+      "portal_url": "https://www.sandiego.gov/police/data-transparency/mandated-disclosures/sb16-sb1421-ab748",
+      "direct_mp4_disclosures": [
+        {
+          "incident_date": "2026-01-21",
+          "case_name": "01-21-2026 2900 Balboa (AB 748)",
+          "mp4_url": "https://sdpdsb1421.sandiego.gov/AB%20748/2026/01-21-2026%202900%20Balboa/Video/San+Diego+PD+-+OIS+121626++2900+Balboa.mp4"
+        },
+        {
+          "incident_date": "2026-01-22",
+          "case_name": "01-22-2026 Jamacha Road (AB 748 Briefing Video)",
+          "mp4_url": "https://sdpdsb1421.sandiego.gov/AB%20748/2026/01-22-2026%20Jamacha%20Road/Video/San+Diego+PD+-+OIS+012226+Jamacha.mp4"
+        },
+        {
+          "incident_date": "2026-04-15",
+          "case_name": "04-15-2026 16th and Island (AB 748 Briefing Video)",
+          "mp4_url": "https://sdpdsb1421.sandiego.gov/AB%20748/2026/04-15-2026%2016th%20and%20Island/Video/San+Diego+PD+-+OIS+041526+16th+and+Island+FINAL+1+%281%29.mp4"
+        },
+        {
+          "incident_date": "2026-05-06",
+          "case_name": "05-06-2026 Derby Farms (AB 748)",
+          "mp4_url": "https://sdpdsb1421.sandiego.gov/AB%20748/2026/05-06-2026%20Derby%20Farms/Video/San+Diego+PD+-+OIS+050626+Steeple+Chase+-+Derby+Farms+FINAL+1+%281%29.mp4"
+        },
+        {
+          "incident_date": "2026-06-23",
+          "case_name": "06-23-2026 1600 6th Avenue (AB 748)",
+          "mp4_url": "https://sdpdsb1421.sandiego.gov/AB%20748/2026/06-23-2026%201600%206th%20Avenue/Video/San+Diego+PD+-+OIS+062326+1600+6th+Avenue+.mp4"
+        },
+        {
+          "incident_date": "2026-06-30",
+          "case_name": "06-30-2026 4700 Pacific Hwy (AB 748)",
+          "mp4_url": "https://sdpdsb1421.sandiego.gov/AB%20748/2026/06-30-2026%204700%20Pacific%20Hwy/Video/San+Diego+PD+-+OIS+063026+4700+Pac+Highway+FINAL+3+%281%29.mp4"
+        },
+        {
+          "incident_date": "2026-07-29",
+          "case_name": "07-29-2026 Beyer and Del Sur (AB 748)",
+          "mp4_url": "https://sdpdsb1421.sandiego.gov/AB%20748/2026/07-29-2026%20Beyer%20and%20Del%20Sur/Video/San+Diego+PD+-+OIS+072926+Beyer+and+Del+Sur+Blvd+FINAL+2+%281%29.mp4"
+        },
+        {
+          "incident_date": "2026-08-25",
+          "case_name": "08-25-2026 Nipoma Street (AB 748)",
+          "mp4_url": "https://sdpdsb1421.sandiego.gov/AB%20748/2026/08-25-2026%20Nipoma%20Street/Video/San+Diego+PD+-+OIS+082526+2758+Nipoma+Street+FINAL+1.mp4"
+        },
+        {
+          "incident_date": "2026-09-16",
+          "case_name": "09-16-2026 4000 30th Street (AB 748)",
+          "mp4_url": "https://sdpdsb1421.sandiego.gov/AB%20748/2026/09-16-2026%204000%2030t%20Street/Video/San+Diego+PD+-+OIS+091626+4000+30th+Street+FINAL+1.mp4"
+        }
+      ]
+    },
+    {
+      "case_id": "SIDEDOOR_2026_06",
+      "agency": "Portland Police Bureau (OR)",
+      "incident_date": "2026-02-05",
+      "official_case_number": "Portland PB February 5, 2026 Officer-Involved Shooting (Additional 1.02h Full Angle — `W1IJgqKFOHI`)",
+      "relationship_to_queue": "SUPPLEMENTAL 1.02h BWC VIDEO: Supplements `2026_CASE_25` (`Bflsi3HMneA`, 1.08h) with `W1IJgqKFOHI` ('Moments Before Portland Police Shooting | Oregon Police Bodycam', 1.02h / 3,667s). Together they provide 2.10 hours of BWC coverage for the Feb 5, 2026 Portland OIS.",
+      "total_duration_seconds": 3667,
+      "total_duration_hours": 1.02,
+      "youtube_url": "https://www.youtube.com/watch?v=W1IJgqKFOHI"
+    },
+    {
+      "case_id": "SIDEDOOR_2026_07",
+      "agency": "Manalapan Township Police Department (NJ)",
+      "incident_date": "2026-06-19",
+      "official_case_number": "Alyson Shapses Target Shoplifting / Repeat Offender Arrest (`7N-0Wl49B8Q`)",
+      "relationship_to_queue": "BRAND NEW 2026 BWC CASE (0.60h / 36.3m): Verified incident date June 19, 2026 at 3:56 PM (55 US Highway 9, Manalapan, NJ).",
+      "total_duration_seconds": 2178,
+      "total_duration_hours": 0.6,
+      "youtube_url": "https://www.youtube.com/watch?v=7N-0Wl49B8Q"
+    },
+    {
+      "case_id": "SIDEDOOR_2026_08",
+      "agency": "Roselle Park Police Department (NJ)",
+      "incident_date": "2026-05-23",
+      "official_case_number": "Sayonara Oliveira Alves DWI Crash Arrest (`i1SbyVi9mZM`)",
+      "relationship_to_queue": "BRAND NEW 2026 BWC CASE (0.55h / 33.1m): Verified incident date May 23, 2026 at 1:07 AM (178 Maple Street, Roselle Park, NJ).",
+      "total_duration_seconds": 1986,
+      "total_duration_hours": 0.55,
+      "youtube_url": "https://www.youtube.com/watch?v=i1SbyVi9mZM"
+    }
+  ]
+}

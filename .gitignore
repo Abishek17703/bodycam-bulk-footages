@@ -1,0 +1,28 @@
+# Secrets & Tokens (NEVER COMMIT)
+*token*.json
+tok_*.json
+adc.json
+client_secret*.json
+*.pem
+*.key
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Large media & temporary downloads
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.avi
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.png
